@@ -1,0 +1,5 @@
+A program to help find good moves for a game of Letterpress (http://www.atebits.com/letterpress/)
+
+The dictionary is the one included with FreeBSD, so some of the words might not work in the game.
+
+Invoke "sugest-words" with the 16 letters on the board, letters your opponent controls that can be captured, and uncaptured letters to get back a list of the 10 words that have the highest score impact.
